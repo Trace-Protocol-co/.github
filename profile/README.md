@@ -35,4 +35,4 @@ TRACE creates a permanent, verifiable provenance layer for digital media. Every 
 - [`trace-frontend`](https://github.com/Trace-Protocol-co/trace-frontend) — Web app (traceprotocol.co)
 - [`trace-extension`](https://github.com/Trace-Protocol-co/trace-extension) — Browser extension for real-time verification
 
-## Built for Sui Overflow 2026 — Walrus Track
+
